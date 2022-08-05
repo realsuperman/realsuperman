@@ -33,7 +33,8 @@
 
 <br><br>
 ### 📧 기타정보 📧
-[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=realsuperman)](https://github.com/realsuperman/github-readme-stats)   ![realsuperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsuperman&show_icons=true&theme=dark)   
+[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=realsuperman)](https://github.com/realsuperman/github-readme-stats)   ![realsuperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsuperman&show_icons=true&theme=dark) 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seonghun7304)](https://solved.ac/seonghun7304)
 
 
