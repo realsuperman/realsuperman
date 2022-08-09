@@ -37,4 +37,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seonghun7304)](https://solved.ac/seonghun7304)
 
-노션 링크 : https://www.notion.so/b481b1db4e424815a681f966f942d0a0
+노션 링크 : https://cedar-laugh-b4d.notion.site/b481b1db4e424815a681f966f942d0a0
