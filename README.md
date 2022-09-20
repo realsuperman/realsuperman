@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=#A34F26"/></a>
 <br><br>
   
- ### ⏱ Experience ⏱
+<!-- ### ⏱ Experience ⏱
 |기간|활동명|
 |---|---|
 |2016.09 - 2019.02|(주)푸드테크 ERP 개발팀 사원(Spring & Mybatis)
-|2019.03 - 2023.02|숭실대학교 컴퓨터학부
+|2019.03 - 2023.02|숭실대학교 컴퓨터학부 -->
 
 <br>
 
