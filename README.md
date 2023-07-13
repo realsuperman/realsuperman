@@ -36,5 +36,3 @@
 [![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=realsuperman)](https://github.com/realsuperman/github-readme-stats)   ![realsuperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsuperman&show_icons=true&theme=dark) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seonghun7304)](https://solved.ac/seonghun7304)
-
-노션 링크 : https://cedar-laugh-b4d.notion.site/b481b1db4e424815a681f966f942d0a0
