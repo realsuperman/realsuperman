@@ -28,8 +28,7 @@
 |기간|활동|설명|
 |---|-----|---|
 |2020.09-2020.12|레포지토리 변경내역 알림 프로젝트|레포지토리의 변경 내역을 간단히 확인 가능 |
-|2021.03-2021.09|부정행위 방지 시스템|온라인 환경에서의 부정행위 방지를 위한 프로젝트|
-https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002769665
+|2021.03-2021.09|부정행위 방지 시스템|온라인 환경에서의 부정행위 방지를 위한 프로젝트(https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002769665)|
 |2021.09-2021.12|미니 컴파일러 프로젝트|미니 C컴파일러 제작|
 
 <br><br>
